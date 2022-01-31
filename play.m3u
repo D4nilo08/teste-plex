@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1, Band HD (SP)
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Band HD
+http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
+
+#EXTINF:-1, Canal Parlamento HD (PT)
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Canal Saude
+http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Cultura HD (SP)
+http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Cultura - TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Futura - TV o Povo HD
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Globo HD
+http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Multi Cultura HD
+http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Porto Canal HD (PT) 
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Porto Canal² HD (PT) 
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Record TV HD (MT)
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Rede Brasil HD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Rede Brasil HD (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Rede Minas HD
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Rede TV (SP)
+http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Rede TV (ES)
+https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Rede TV (RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SBT Interior HD (SP)
+https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SBT HD (AM)
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SBT HD (MT)
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SBT HD (PI)
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SBT HD (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SESC TV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, SIC Internacional HD (PT)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Aberta HD
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Artes HD
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Assembleia HD (CE)
+http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Brasil 2 HD
+http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Camera HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TVE HD
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TVE² HD
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Gazeta - TVC HD
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Parana Turismo HD
+http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV Parana Turismo² HD
+http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, TV UFG HD
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1, Combate (1)
+http://50.7.34.155:2201/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+
+#EXTINF:-1, Combate 4k (2)
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1310
+
+#EXTINF:-1, COMBATE HD+ (3)
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1798
